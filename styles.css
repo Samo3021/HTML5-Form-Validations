@@ -1,0 +1,10 @@
+body{
+    background: black;
+}
+.container-fluid{
+    background: white;
+    widows: 100px;
+}
+#bancos{
+    width: 100%;
+}
